@@ -1,12 +1,12 @@
 # Devcamp Portfolio App
 
-###Features
+### Features
 
--Chat with your homies
+- Chat with your homies
 
--Post kool stuff
+- Post kool stuff
 
--Portfolio
+- Portfolio
 
 ```javascript
 alert("hi there");
