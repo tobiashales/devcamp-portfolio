@@ -1,24 +1,14 @@
-# Devcamp Portfolio Application
+# Devcamp Portfolio App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+###Features
 
-Things you may want to cover:
+-Chat with your homies
 
-* Ruby version
+-Post kool stuff
 
-* System dependencies
+-Portfolio
 
-* Configuration
+```javascript
+alert("hi there");
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
