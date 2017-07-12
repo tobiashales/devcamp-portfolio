@@ -7,7 +7,12 @@ Rails.application.routes.draw do
   get 'about', to: 'pages#about'
   get 'contract', to:'pages#contract'
 
-  resources :blogs
+  resources :blogs do
+  member do
+    get :toggle_status
+  end
+end
+  
  
  root to: 'pages#home'
 end
